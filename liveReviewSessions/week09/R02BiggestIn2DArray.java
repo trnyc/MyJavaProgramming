@@ -1,4 +1,4 @@
-package wekk09;
+package week09;
 
 import java.util.Arrays;
 

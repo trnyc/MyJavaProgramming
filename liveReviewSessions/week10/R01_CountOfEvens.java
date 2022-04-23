@@ -1,4 +1,4 @@
-package wekk10;
+package week10;
 
 public class R01_CountOfEvens {
     public static void main(String[] args) {
