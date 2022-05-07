@@ -1,4 +1,4 @@
-package day44_Abstraction.Animal;
+package day44_Abstraction.animal;
 
 public final class Cat extends Animal implements Playable{
 

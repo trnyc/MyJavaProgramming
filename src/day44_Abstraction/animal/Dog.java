@@ -1,4 +1,4 @@
-package day44_Abstraction.Animal;
+package day44_Abstraction.animal;
 
 public class Dog extends Animal implements Playable {
 

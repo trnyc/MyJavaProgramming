@@ -1,4 +1,4 @@
-package day44_Abstraction.Animal;
+package day44_Abstraction.animal;
 
 public class Tiger extends Animal implements WildAnimal{
 

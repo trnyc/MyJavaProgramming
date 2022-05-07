@@ -105,6 +105,9 @@ interface WebDriver extends SearchContext:
 	get()
 	close()
 
+	*** You can have as many classes or interfaces as you want in a FILE, but only one of them can be PUBLIC
+	    and name must be same with the file name.
+
 
 
 
