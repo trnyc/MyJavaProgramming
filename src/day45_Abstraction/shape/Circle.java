@@ -31,4 +31,15 @@ public class Circle extends Shape {
     public double perimeter() {
         return 2 * pi * radius;
     }
+
+    @Override
+    public String toString() {
+        return "Circle{" +
+                super.toString()+ // to call super class' toString. instead of typing one by one
+//                "name='" + getName() + '\'' +
+//                ", area='" + area() + '\'' +
+//                ", perimeter='" + perimeter() + '\'' +
+                "radius=" + radius +
+                '}';
+    }
 }

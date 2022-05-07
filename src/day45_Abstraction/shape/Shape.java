@@ -18,10 +18,10 @@ public abstract class Shape {
 
     @Override
     public String toString() {
-        return "getClass().getSimpleName(){" +
+        return // "getClass().getSimpleName(){" +
                 "name='" + name + '\'' +
-                ", area='" + name + '\'' +
-                ", perimeter='" + name + '\'' +
+                ", area='" + area() + '\'' +
+                ", perimeter='" + perimeter() + '\'' +
                 '}';
     }
 }
