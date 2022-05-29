@@ -4,6 +4,15 @@ Topic: Map Continue
 
 package name: day52_Map_FunctionalInterface
 
+ *** The purpose of regular interface is to provide additional methods to the classes
+    Regular interface can have as many abstract methot as needed. You need to OVERRIDE absract method
+    of regular interfece in the sublclasses.
+
+ *** The purpose of functional interface is to create function, not for inheritance and functional
+ interface CAN ONLY HAVE ONE ABSTRACT METHOD. You need use LAMBDA EXPRESSION to be able to create FUNCTION
+   for the method of functional interface. Both regular and functional interface can have abstracat metod.
+ And abstract method does not have BODY.
+
 Warmup tasks:
 	1. Write a program that can find the unique characters from a String
 

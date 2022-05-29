@@ -1,4 +1,4 @@
-package day52_FunctionalInterface;
+package day52_Map_FunctionalInterface;
 
 @FunctionalInterface
 public interface MyFirstFunctionalInterface {

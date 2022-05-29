@@ -1,8 +1,6 @@
-package day41_Exeptions;
+package day41_Exceptions;
 
 import day39_Recap.cydeoTask.Student;
-
-import java.io.FileInputStream;
 
 public class Checked_vs_Unchecked {
     public static void main(String[] args) {
