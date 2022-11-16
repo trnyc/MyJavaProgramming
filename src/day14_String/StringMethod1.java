@@ -3,7 +3,7 @@ package day14_String;
 public class StringMethod1 {
     public static void main(String[] args) {
 
-/* trim() method is  used to remove white spaces in your codes. White spaces
+/* trim() method is  used to remove white spaces in your string. White spaces
 means, spaces that are not used. Spaces between two words are not white spaces.
 trim() method can not modify string but create new one without white spaces.
  */

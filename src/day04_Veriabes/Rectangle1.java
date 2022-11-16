@@ -1,4 +1,4 @@
-package day04_Veriabes1;
+package day04_Veriabes;
 
 public class Rectangle1 {
 

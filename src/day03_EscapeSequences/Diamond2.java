@@ -21,11 +21,11 @@ public class Diamond2 {
         System.out.println("\t / * * \\");
         System.out.println("\t/ * * * \\");
         System.out.println("\t----------");
-        System.out.println("\t\\*  *  */");
+        System.out.println("\t\\ * * * /");
         System.out.println("\t \\ * * /");
         System.out.println("\t  \\ * /");
         System.out.println("\t   \\ /");
-        System.out.println("\t     v");
+        System.out.println("\t    v");
     }
 
 

@@ -20,13 +20,13 @@ public class UnaryOperators {
         int b = 100;
         System.out.println(b++);//post increment increases the value in next step
                                 //first it passes the correct value
-        System.out.println(b);
+        System.out.println(b);  // now its 101
 
         int x = 500;
         System.out.println(--x);//pre decrement makes it 499 immediately
 
         int y = 400;
-        System.out.println(y--);//post decrement makes it 399 at next step
+        System.out.println(y--);//post decrement makes it 399 at next step (its still 400)
         System.out.println(y);
 
         int z = 88;

@@ -1,6 +1,6 @@
-package day04_Veriabes1;
+package day04_Veriabes;
 
-public class Cricle1 {
+public class Cricle {
 
     public static void main(String[] args) {
 

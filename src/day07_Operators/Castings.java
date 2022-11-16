@@ -4,6 +4,7 @@ public class Castings {
     public static void main(String[] args) {
 
         float avarageScore = 20.5f;
+
         byte num1 = (byte) avarageScore; // expilicit casting
         short num2 = (short) avarageScore;//explicit casting
         int num3 = (int) avarageScore; //explicit casting

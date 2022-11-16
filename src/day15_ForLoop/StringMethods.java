@@ -56,7 +56,7 @@ while comparing them.
         System.out.println(input1.contains(input2));//true
 
         System.out.println(input1.contains("java"));//false, bacause its case sensitive
-/* To avaid case sensitivity problems, you need to convert your string to
+/* To avoid case sensitivity problems, you need to convert your string to
 UPPERCASE first and check with an uppercase word, OR, convert it to lowercase
 ant check with a lowercase word.
  */

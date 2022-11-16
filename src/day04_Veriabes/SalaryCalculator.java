@@ -1,6 +1,6 @@
-package day04_Veriabes1;
+package day04_Veriabes;
 
-public class SalaryCalculater1 {
+public class SalaryCalculator {
 
     public static void main(String[] args) {
 
