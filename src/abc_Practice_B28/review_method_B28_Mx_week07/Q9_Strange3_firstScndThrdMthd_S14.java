@@ -1,6 +1,6 @@
 package abc_Practice_B28.review_method_B28_Mx_week07;
 
-public class Q9_Strange3_firstScndThrdMthd {
+public class Q9_Strange3_firstScndThrdMthd_S14 {
 
 
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package abc_Practice_B28.review_method_B28_Mx_week07;
 
-public class Q3_StringTouchMethod {
+public class Q3_StringTouchMethod_S13 {
 
     public static void main(String[] args) {
 
@@ -21,8 +21,11 @@ public class Q3_StringTouchMethod {
     }
 
     public static void touch(String elbow, String ear){
-        System.out.println("touch you " + elbow + " to your " + ear);
+
+        System.out.println("touch your " + elbow + " to your " + ear);
     }
+
+
 
     /*
     touch you eye to your head

@@ -1,58 +1,34 @@
 package abc_Practice_B28;
 
 
+
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Scanner;
+
 public class TestTest {
-    public static void main(String[] args) {
 
 
-        String head = "shoulders";
-        String knees = "toes";
-        String elbow = "head";
-        String eye = "eyes and ears";
-        String ear = "eye";
+    public static void main(String args[])
+    {
+        int [][] arr = new int [][]{{1,2}, {3,4}};
+        arr [1] = arr[0];
+        System.out.println(arr[1]);
 
-        touch(ear, elbow);
-        touch(elbow, ear);
-        touch(head, "bani");
-        touch(eye, eye);
-        touch(knees, "Toes");
-        touch(head, "knees " + knees);
+        System.out.println(Arrays.deepToString(arr));
 
+        int [] arr2 = {1, 2, 3};
+
+       int a = arr2.length;
+        System.out.println(arr2[2]);
+
+
+        System.out.println(Arrays.toString(arr2));
 
 
 
     }
-
-    public static void touch(String elbow, String ear) {
-        System.out.println("touch your " + elbow + " to your " + ear);
-    }
-
-
-//    public class Strange {
-//        public static void main(String[] args) {
-//            second();
-//            first();
-//            second();
-//            third();
-//        }
-//
-//        public static void first() {
-//            System.out.println("Inside first method.");
-//        }
-//
-//        public static void second() {
-//            System.out.println("Inside second method.");
-//            first();
-//        }
-//
-//        public static void third() {
-//            System.out.println("Inside third method.");
-//            first();
-//            second();
-//        }
-//    } ISBKTRIS
-
-
 
 }
 

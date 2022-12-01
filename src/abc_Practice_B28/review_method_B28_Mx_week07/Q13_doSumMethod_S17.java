@@ -1,6 +1,6 @@
 package abc_Practice_B28.review_method_B28_Mx_week07;
 
-public class Q13_doSumMethod {
+public class Q13_doSumMethod_S17 {
    // Original class name= public class SumTest
 
     public static void doSum(Integer x, Integer y){ // question 13

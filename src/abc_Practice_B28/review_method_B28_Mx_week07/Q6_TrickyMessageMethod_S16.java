@@ -1,6 +1,6 @@
 package abc_Practice_B28.review_method_B28_Mx_week07;
 
-public class Q6_TrickyMessageMethod {
+public class Q6_TrickyMessageMethod_S16 {
     public static void main(String[] args) {
         message1();
         message2();
@@ -18,6 +18,7 @@ public class Q6_TrickyMessageMethod {
         System.out.println("Done with message2.");
     }
 }
+
 /*
 Output= This is message1.
 This is message2.

@@ -1,4 +1,4 @@
-package quizzes_B_28.ifstatements;
+package abc_Practice_B28.quiz_ifstatement_b28;
 
 public class Q1_AddingWithIf {
 

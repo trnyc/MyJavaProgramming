@@ -1,4 +1,4 @@
-package quizzes_B_28.customMethods;
+package abc_Practice_B28.kahoot_customMethodsB28;
 
 public class Q6_FindMax {
 

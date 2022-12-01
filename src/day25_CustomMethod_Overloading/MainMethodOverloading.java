@@ -4,7 +4,7 @@ public class MainMethodOverloading {
 
 /* MAIN METHOD CAN BE ALSO OVERLOADED
 But when you run this class, only the first main method will be executed.
-Because its the original one different than the others.
+Because its the original one different from the others.
  */
 
 
