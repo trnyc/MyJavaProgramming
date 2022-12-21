@@ -24,14 +24,14 @@ public class Test15 {
 //            }
 //            while (i < 5);
 
-            int i = 0;
-
-        for ( ; i < 5; i++) {
-
-            System.out.println("i = " + i);
-
-        }
-        System.out.println("i after the loop = " + i);
+//            int i = 0;
+//
+//        for ( ; i < 5; i++) {
+//
+//            System.out.println("i = " + i);
+//
+//        }
+//        System.out.println("i after the loop = " + i);
 
 
 

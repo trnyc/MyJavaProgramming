@@ -25,6 +25,8 @@ public class C04_RemoveIfMethod {
         for (int i = 0; i < list.size(); i++) {
             if(list.get(i) % 2 != 0 ){
                 list.remove(i);// normally it must remove all odd numbers, BUT will not
+                // we can not use remove() method to remove an element of an ArrayList in a loop
+                // since ArrayList size is dynamic. We must use Iterable or removeIf() instead
             }
         }
         System.out.println(list);

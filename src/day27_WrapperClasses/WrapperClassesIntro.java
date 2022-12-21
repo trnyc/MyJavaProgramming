@@ -5,7 +5,7 @@ public class WrapperClassesIntro {
 
         int num1 = 200;
 
-        // Long n1 =num1;
+        //Long n1 =num1; // will not compile, because we must use its own Wrapper class for each primitive data type
         Integer n1 = num1; //autoboxing
 
         int num2 = n1;  //unboxing

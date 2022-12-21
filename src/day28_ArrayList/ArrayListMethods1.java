@@ -14,7 +14,7 @@ public class ArrayListMethods1 {
         numbers.add(60);// intex 5
         numbers.add(70);// intex 6 now:[10, 20, 30, 40, 50, 60, 70]
 
-/*  This add() method has also 'insert' function that you can insirt an element into ArrayList
+/*  This add() method has also 'insert' function that you can insert an element into ArrayList
 by giving index number and element.  */
 
         numbers.add(2, 25);// now: [10, 20, 25, 30, 40, 50, 60, 70]
@@ -35,6 +35,7 @@ last index number, you need subtract 1. */
 
         System.out.println("---------------------get(index) method----------------");
         //brings the element at given index
+        // [10, 20, 25, 30, 40, 50, 60, 70]
 
         int num = numbers.get(4);// num is the number at index 4
         System.out.println("num = " + num); //40

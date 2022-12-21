@@ -19,7 +19,7 @@ public class kahoot_arrays {
 //        for (int i = 0; i < arr.length; i++) {
 //            System.out.println( " "+ arr[i]);
 //        }
-//
+
 //        //----------------------------------------------------------
 //
 ////Q5
@@ -29,7 +29,7 @@ public class kahoot_arrays {
 //        //----------------------------------------------------------
 //
 ////6
-//        int[] num = {5,9,12,8,77};
+//        int[] num = {5,9,12,8,77};// 55555
 //        for (int x = 1; x < num.length; x++) {
 //            num[x] = num[0];
 //        }
@@ -66,19 +66,16 @@ public class kahoot_arrays {
 //
 //        //- ---------------------------------------------------------
 ////10 ABCD
-//        char[] array = {'D','C','B','A'};
+//        char[] array = {'D','C','B','A'}; // A B C D
 //        Arrays.sort(array);
 //
 //        for (char each: array){
-//            System.out.println(each+" ");
+//            System.out.println(each + " ");
 //            if (each == 'D') {
 //                continue;
-//
-//
 //            }
-//
-//
 //        }
+
 //        //- ---------------------------------------------------------
 ////11
 //        double[] data = new double[20];
@@ -90,6 +87,10 @@ public class kahoot_arrays {
 //
 //        Arrays.sort(nums);
 //        System.out.println(Arrays.toString(nums));
+
+
+        int [][] arr = new int [4][4];
+        System.out.println(Arrays.deepToString(arr)); // [ [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0] ]
 
     }
 }
