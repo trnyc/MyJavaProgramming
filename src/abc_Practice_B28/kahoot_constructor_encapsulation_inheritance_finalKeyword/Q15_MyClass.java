@@ -13,10 +13,16 @@ public class Q15_MyClass {
 class Test {
     public static void main(String[] args) {
         Q15_MyClass myClass = new Q15_MyClass();
+
         myClass.count = 1;
+
         myClass.myMethod(myClass);
 
+
         System.out.println(myClass.count);
+
+
+
 
     }
 } // Output: 2

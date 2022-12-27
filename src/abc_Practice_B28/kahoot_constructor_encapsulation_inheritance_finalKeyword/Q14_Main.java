@@ -8,9 +8,9 @@ package abc_Practice_B28.kahoot_constructor_encapsulation_inheritance_finalKeywo
     }
 
     class Derived extends Base {
-//        private void foo() {
-//            System.out.println("Derived");
-//        }
+        public void foo() {
+            System.out.println("Derived");
+        }
     }
 
     public class Q14_Main {

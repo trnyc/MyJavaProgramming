@@ -6,7 +6,7 @@ public class PrivateMethodTest {
 
             PrivateMethod secretFormula = new PrivateMethod();
 
-            secretFormula.getNumber();
+            PrivateMethod.getNumber();
 
 
 
